@@ -2,7 +2,7 @@
 This assignment: given a specific output
 as a demo file called HW2tester.java.  You had 
 to write the class file to make the tester file work
-properly.
+properly. 
  
 Ernie Barber
 eb881047@wcupa.edu

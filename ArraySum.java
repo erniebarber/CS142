@@ -24,4 +24,4 @@ public class ArraySum
    double average = sum / array1.length;
    System.out.println("The average is " + average);
    }
-}
+} 

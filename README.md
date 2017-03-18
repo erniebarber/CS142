@@ -1,3 +1,2 @@
 # CS142
-Java coding exercises and HW Spring 2017
-Demo and Class code for Spring '17 CS142 coursework
+Java coding exercises and HW for Spring '17 CS142 coursework

@@ -2,7 +2,7 @@
 values in an int []array by checking the
 index with a for loop.
 
-Ernie Barber 
+Ernie Barber  
 CS142
 Spring 2017
 */

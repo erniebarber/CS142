@@ -2,7 +2,7 @@
 a provided file called number.txt.  The totals asked
 for were: total of all numbers, number of numbers, number of evens
 number of odds, average of all numbers, average of evens and 
-average of odds.
+average of odds. 
 
 Ernie Barber 
 CS142

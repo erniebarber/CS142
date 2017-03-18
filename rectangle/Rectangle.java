@@ -17,7 +17,7 @@ public class Rectangle
 //    {
 //    length = len;
 //    width = w;
-//    }
+//    } 
    
    //methods
    public void setLength(double len)

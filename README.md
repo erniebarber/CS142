@@ -1,2 +1,2 @@
 # CS142
-Java coding exercises and HW for Spring '17 CS142 coursework
+Java coding assignments and HW for CS142 Spring '17 

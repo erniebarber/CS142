@@ -1,7 +1,7 @@
 /*This program compares the indexes of two arrays
 for equality.
 Ernie Barber 
-CS142
+CS142 
 Spring 2017
 */
 public class ArrayCompare
